@@ -1,2 +1,3 @@
-# Sourcemod-bug-fix
-Left 4 Dead 2 Sourcemod bug fix
+<img src="https://github.com/GlobalMikiDev/Sourcemod-bug-fix/blob/main/logo.png"/>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
